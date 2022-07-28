@@ -1,5 +1,5 @@
 # awesome-ai
-Awesome AI projects I'm keeping track of
+Awesome tools built with AI that I'm keeping track of
 
 
 ### [Jenni AI](https://jenni.ai/)
